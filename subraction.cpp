@@ -7,7 +7,7 @@ int main()
     cout<<"ENTER TWO NUMBERS"<<endl;
     cin>>a>>b;
     cout<<"Difference OF TWO NUMBERS"<<endl;
-    cout<<a+b<<endl;
+    cout<<a-b<<endl;
 
 
     return 0;
